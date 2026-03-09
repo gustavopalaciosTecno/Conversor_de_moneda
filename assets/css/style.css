@@ -1,6 +1,6 @@
 /* css variables and base */
 :root {
-    --color-bg: #f5f8ff;
+    --color-bg: #2fb7ec;
     --color-bg-card: #ffffff;
     --color-text-primary: #1e293b;
     --color-text-secondary: #64748b;
@@ -93,11 +93,13 @@ main.converter-card,
     background-color: #353ed2;
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-lg);
+    border-top: 10px solid rgb(63, 204, 214);
     width: 100%;
     padding: 4.8rem;
     display: flex;
     flex-direction: column;
     gap: 4rem;
+
 }
 
 /* Form Layout */
