@@ -85,6 +85,8 @@ span {
     font-size: 1.8rem;
     color: var(--color-text-light);
     line-height: 1.6;
+    font-weight: bold;
+    letter-spacing: 2px;
 }
 
 /* Card layout */
